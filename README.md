@@ -18,8 +18,6 @@ Aplicación React que muestra una lista de contactos con filtros y diseño respo
 - [x] Avatar circular
 - [x] Filtro solo activos
 - [x] Mensaje si no hay contactos
-- [ ] Búsqueda por nombre (opcional avanzado)
-- [ ] Ordenar alfabéticamente (opcional)
 
 ## 🏃‍♂️ Cómo ejecutar
 ```bash
